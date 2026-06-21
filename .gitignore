@@ -1,0 +1,30 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+*.lock
+*.log
+
+# Generated platform projects
+android/
+ios/
+windows/
+linux/
+macos/
+web/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+.pub/
+.claude/
